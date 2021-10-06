@@ -1,0 +1,7 @@
+app-14-09
+.venv
+cmd.txt
+.idea
+env
+.vscode
+__pycache__
